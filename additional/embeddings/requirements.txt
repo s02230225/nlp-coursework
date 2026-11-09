@@ -1,0 +1,7 @@
+gensim
+matplotlib
+notebook
+numpy
+pandas
+requests
+scikit-learn

@@ -1,0 +1,5 @@
+numpy
+pandas
+pymorphy3
+razdel
+scikit-learn

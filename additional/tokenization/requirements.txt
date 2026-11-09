@@ -1,0 +1,5 @@
+matplotlib
+natasha
+nltk
+pymorphy3
+razdel

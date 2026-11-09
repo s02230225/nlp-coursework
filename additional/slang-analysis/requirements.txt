@@ -1,0 +1,4 @@
+matplotlib
+nltk
+pymorphy3
+razdel
